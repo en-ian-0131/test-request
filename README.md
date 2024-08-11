@@ -1,5 +1,4 @@
 # test-request
-# test-request
 ** All following exams please using Javascript only **
 # 1.
 There is an array, each item has such format:
